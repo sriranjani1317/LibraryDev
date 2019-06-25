@@ -9,4 +9,10 @@ public class method  {
         String test="1";
         System.out.print(test);
     }
+     public static void message_1() {
+        String test="2";
+        System.out.print(test);
+    }
+
+
 }
